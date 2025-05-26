@@ -1,5 +1,5 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Добро пожаловать в личную галерею Иванова Ивана (LencoDigitexer). Здесь собраны уютные и вдохновляющие кадры природы, путешествий и повседневности. Исследуйте мир через мои глаза.
 #lastmod: 2023-07-05
 title: Цифровое искусство Евсеенко Ильи | Портфолио LencoDigitexer
 resources:
