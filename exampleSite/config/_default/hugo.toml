@@ -1,25 +1,25 @@
-copyright = "© Your Name"
-defaultContentLanguage = "en"
+copyright = "© LencoDigitexer"
+defaultContentLanguage = "ru"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "en"
-timeZone = "Europe/Berlin"
+languageCode = "ru"
+timeZone = "Europe/Moscow"
 timeout = "120s"
-title = "Gallery"
+title = "Галерея"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "Добро пожаловать в личную галерею Евсеенко Ильи (LencoDigitexer). Здесь собраны уютные и вдохновляющие кадры природы, путешествий и повседневности. Исследуйте мир через мои глаза."
+  title = "Моя галерея"
   [params.author]
     email = "user@example.com"
     name = "Your Name"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/protivogaser"
+    github = "https://github.com/LencoDigitexer/photo"
+    #youtube = "https://www.youtube.com/"
+    #email = "mailto:user@example.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"

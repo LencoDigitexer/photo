@@ -1,7 +1,7 @@
 ---
 description: An example site for hugo-theme-gallery. Images from Unsplash.
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Цифровое искусство Евсеенко Ильи | Портфолио LencoDigitexer
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
