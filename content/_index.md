@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: "Профессиональная фотогалерея Евсеенко Ильи (LencoDigitexer). Уникальные пейзажи, портреты и архитектурная фотография высокого качества. Москва и Россия."
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: "LencoDigitexer | Фотография, которая вдохновляет"
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:

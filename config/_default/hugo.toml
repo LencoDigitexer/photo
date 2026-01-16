@@ -2,10 +2,10 @@ copyright = "© Евсеенко Илья (LencoDigitexer)"
 defaultContentLanguage = "ru"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "ru"
+languageCode = "ru-RU"
 timeZone = "Europe/Moscow"
 timeout = "120s"
-title = "Фотографии"
+title = "LencoDigitexer | Профессиональная фотография"
 
 [params]
   defaultTheme = "dark"
