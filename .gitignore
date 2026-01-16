@@ -1,6 +1,5 @@
 node_modules/
-public/
-resources/
+package-lock.json
 .hugo_build.lock
-hugo_stats.json
-content/**/*.jpg
+exampleSite/assets/jsconfig.json
+.DS_Store
