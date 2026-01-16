@@ -1,25 +1,25 @@
-copyright = "© Your Name"
-defaultContentLanguage = "en"
+copyright = "© Евсеенко Илья (LencoDigitexer)"
+defaultContentLanguage = "ru"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "en"
-timeZone = "Europe/Berlin"
+languageCode = "ru"
+timeZone = "Europe/Moscow"
 timeout = "120s"
-title = "Gallery"
+title = "Фотографии"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "Профессиональная фотография от Евсеенко Ильи | Пейзажи, портреты, архитектура | LencoDigitexer - ваш фотограф в Москве и по всему миру"
+  title = "Фотогалерея LencoDigitexer"
   [params.author]
     email = "user@example.com"
-    name = "Your Name"
+    name = "Евсеенко Илья"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/protivogaser"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    #email = "mailto:user@example.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -31,6 +31,9 @@ title = "Gallery"
     #boxSpacing = 10
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
+    boxSpacing = 8
+    targetRowHeight = 320
+    targetRowHeightTolerance = 0.3
 
 [outputs]
   home = ["HTML", "RSS"]
