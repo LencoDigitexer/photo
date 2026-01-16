@@ -4,7 +4,7 @@ menus: "main"
 title: Panasonic aka Анапа 2007
 weight: 2
 resources:
-  - src: 024.jpg
+  - src: img_20241201_013837_099.jpg
     params:
       cover: true
 ---
