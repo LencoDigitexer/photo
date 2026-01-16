@@ -54,7 +54,7 @@ title = "Gallery"
 [menu]
   [[menu.footer]]
     name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    url = "https://github.com/nicokaiser/hugo-theme-gallery"
     weight = 3
 
 [services]
